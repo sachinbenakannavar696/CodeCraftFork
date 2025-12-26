@@ -1,3 +1,4 @@
+
 | Name                    | GitHub ID         | College Name                   |
 |-------------------------|-------------------|--------------------------------|
 | Asra Tabassum           | Tabassumasra05    | IIIT Allahabad                 |
@@ -6,6 +7,7 @@
 | Prashant Kumar Dwivedi  | dwivediprashant   | LNCT Bhopal                    | 
 | Harshvardhan            | HARSH4885-svg     | IIIT Allahabad                 | 
 | Pradip Maity            | codeboy-pro       | Haldia Institute Of Technology |
+| Omdeep Masram           | omicoded19        | IIIT Allahabad                 |
 
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
