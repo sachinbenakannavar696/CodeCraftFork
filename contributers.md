@@ -38,6 +38,7 @@
 | Atharva Mehta          | Atharva-insane      | IIIT Allahabad                 |
 | Manisha katariya       | chanchukatariya5     | IIIT Allahabad                 |
 | Kamakshi Gupta          | 29kamakshigupta      | IIIT Allahabad                 |
+| Paarth Arora            |iit2025280-sys        | IIIT Allahabad                 |
 | Ibrahim Raza Beg        | PHOX-9               | IIIT Allahabad                 |
 | Mayank Puri             | purimayank19-bot.  | IIIT Allahabad                  |
 <!-- ADD ABOVE THIS -->
