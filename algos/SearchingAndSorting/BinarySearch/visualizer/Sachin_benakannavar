@@ -1,0 +1,7 @@
+"use client";
+
+export default function Visualizer() {
+  return (
+    <div>Binary Search Visualizer</div>
+  );
+}
